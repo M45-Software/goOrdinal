@@ -1,4 +1,5 @@
-package goCardinal
+// Package ordinal converts int64 values to English ordinal words.
+package ordinal
 
 import (
 	"strings"
