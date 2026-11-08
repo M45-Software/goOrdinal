@@ -1,4 +1,4 @@
-package goCardinal
+package ordinal
 
 import (
 	"math"
