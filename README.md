@@ -4,6 +4,8 @@ A dependency-free Go library for converting `int64` values to English ordinal wo
 
 ## Install
 
+Requires Go 1.27.4 or later.
+
 ```sh
 go get github.com/Distortions81/ordinal
 ```
